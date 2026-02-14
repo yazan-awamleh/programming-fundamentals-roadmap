@@ -3,7 +3,7 @@
 ## Course Overview
 This course focuses on building the essential mental model required before engaging with any programming language syntax. It covers the fundamental principles of how computers process data and the underlying logic of software execution.
 
-## Technical Skills Acquired
+## Technical Skills 
 - **Data Representation:** Understanding the transition from raw data to information and knowledge.
 - **Computer Architecture:** Analyzing internal components, hardware functions, and memory terminology (Bits, Bytes, Nibbles).
 - **Numeral Systems:** Proficiency in Binary, Hexadecimal, and Octal systems, including manual and technical conversion methods.
